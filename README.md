@@ -1,6 +1,6 @@
 ##### Seat Map
 
-Extend from [Create React App]('https://github.com/facebook/create-react-app') 
+Extend from [Create React App](https://github.com/facebook/create-react-app) 
 
 ### Setup to run app
 
